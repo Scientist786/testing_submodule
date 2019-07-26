@@ -1,1 +1,1 @@
-This is child repo
+This is child repository.
